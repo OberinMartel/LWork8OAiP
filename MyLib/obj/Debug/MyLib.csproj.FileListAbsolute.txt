@@ -1,0 +1,14 @@
+C:\Users\khali\Desktop\Шарага\ОАиП\Лаб№8(4 сем)\MyLib\bin\Debug\MyLib.dll
+C:\Users\khali\Desktop\Шарага\ОАиП\Лаб№8(4 сем)\MyLib\bin\Debug\MyLib.pdb
+C:\Users\khali\Desktop\Шарага\ОАиП\Лаб№8(4 сем)\MyLib\obj\Debug\MyLib.csprojAssemblyReference.cache
+C:\Users\khali\Desktop\Шарага\ОАиП\Лаб№8(4 сем)\MyLib\obj\Debug\MyLib.csproj.CoreCompileInputs.cache
+C:\Users\khali\Desktop\Шарага\ОАиП\Лаб№8(4 сем)\MyLib\obj\Debug\MyLib.dll
+C:\Users\khali\Desktop\Шарага\ОАиП\Лаб№8(4 сем)\MyLib\obj\Debug\MyLib.pdb
+C:\Users\khali\Desktop\Шарага\ОАиП\Лаб№8(4 сем)\MyLib\bin\Debug\MyLib.dll.config
+C:\Users\khali\Desktop\Шарага\ОАиП\Лаб№8(4 сем)\MyLib\bin\Debug\EntityFramework.dll
+C:\Users\khali\Desktop\Шарага\ОАиП\Лаб№8(4 сем)\MyLib\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\khali\Desktop\Шарага\ОАиП\Лаб№8(4 сем)\MyLib\bin\Debug\EntityFramework.xml
+C:\Users\khali\Desktop\Шарага\ОАиП\Лаб№8(4 сем)\MyLib\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\khali\Desktop\Шарага\ОАиП\Лаб№8(4 сем)\MyLib\obj\Debug\MyLib.csproj.CopyComplete
+C:\Users\khali\Desktop\Шарага\ОАиП\Лаб№8(4 сем)\MyLib\bin\Debug\Xceed.Document.NET.dll
+C:\Users\khali\Desktop\Шарага\ОАиП\Лаб№8(4 сем)\MyLib\bin\Debug\Xceed.Words.NET.dll
